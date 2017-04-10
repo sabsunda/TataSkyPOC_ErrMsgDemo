@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message_Error_SDCatchUp>
+	<heading>
+		<style>Heading</style>
+		<normal>H_Blockout 107</normal>		
+	</heading>
+	<title>
+		<style>Title</style>
+		<normal>To subscribe to Blockout 107%</normal>
+		<normal>Price%</normal>
+		<normal>SMS to 56633 from RMN</normal>		
+	</title>
+	<bodytext>
+		<style>BodyText</style>
+		<normal>As a-la-carte channel</normal>
+		<fetch>EED channelname%</fetch>
+		<fetch>EED Price%</fetch>
+		<normal>add 107%</normal>
+		<normal>OR%</normal>
+		<normal>As part of English Pack with 9 more channels%</normal>
+		<fetch>EED Price%</fetch>
+		<fetch>SDT ServiceProvider%</fetch>
+		<normal>For more details, Press 'help' on your remote.(T&amp;C apply)</normal>		
+	</bodytext>
+</Message_Error_SDCatchUp>
+
+
+

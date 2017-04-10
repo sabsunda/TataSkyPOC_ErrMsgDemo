@@ -1,0 +1,227 @@
+{
+  "count": 3,
+  "total": 204,
+  "channels": [
+    {
+      "name": "Program 70",
+      "logicalChannelNumber": "1",
+      "id": "1",
+      "isFavourite": true,
+      "isPlayable": true,
+      "media": [
+        {
+          "type": "regular",
+          "mimeType": "image/svg+xml",
+          "url": "http://phx-media-server.phx.cisco.com/LogoSvgInv/twenty_two.svg"
+        },
+        {
+          "type": "inverted",
+          "mimeType": "image/svg+xml",
+          "url": "http://phx-media-server.phx.cisco.com/LogoSvgReg/twenty_two.svg"
+        }
+      ],
+      "schedule": [
+        {
+          "id": "34234141_5332242",
+          "resource": "contentInstance",
+          "type": "event",
+          "startDateTime": "2015-10-05T14:30Z",
+          "content": {
+            "id": "34234141",
+            "resource": "content",
+            "type": "standalone",
+            "title": "U0312S22E025:Name:En",
+            "duration": 1800,
+            "synopsis": {
+              "short": "This is a short synopsis."
+            },
+            "media": [
+              {
+                "type": "small",
+                "mimeType": "image/jpeg",
+                "url": "http://phx-media-server.phx.cisco.com/LTVposters/poster025_eng.jpg",
+                "height": 135,
+                "width": 240
+              },
+              {
+                "type": "large",
+                "mimeType": "image/jpeg",
+                "url": "http://phx-media-server.phx.cisco.com/LTVposters/sposter025_eng.jpg",
+                "height": 135,
+                "width": 240
+              }
+            ],
+            "_links": {
+              "self": {
+                "href": "/content/34234141"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "/contentInstances/34234141_5332242"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "playSession": {
+          "href": "/devices/me/playsessions?channelId=1"
+        }
+      }
+    },
+    {
+      "name": "HBO 2",
+      "logicalChannelNumber": "2",
+      "id": "2",
+      "isFavourite": true,
+      "isPlayable": true,
+      "media": [
+        {
+          "type": "inverted",
+          "mimeType": "image/svg+xml",
+          "url": "http://phx-media-server.phx.cisco.com/LogoSvgReg/three_hd.svg"
+        },
+        {
+          "type": "regular",
+          "mimeType": "image/svg+xml",
+          "url": "http://phx-media-server.phx.cisco.com/LogoSvgInv/three_hd.svg"
+        }
+      ],
+      "schedule": [
+        {
+          "id": "85454342_59345382",
+          "resource": "contentInstance",
+          "type": "event",
+          "startDateTime": "2015-10-05T14:30Z",
+          "content": {
+            "id": "85454342",
+            "resource": "content",
+            "type": "episode",
+            "title": "Game of Thrones",
+            "duration": 300000,
+            "synopsis": {
+              "short": "This is a short synopsis."
+            },
+            "episodeNumber": "10",
+            "seasonNumber": "2",
+            "episodeTitle": "Winter is coming",
+            "media": [
+              {
+                "type": "small",
+                "mimeType": "image/jpeg",
+                "url": "http://phx-media-server.phx.cisco.com/LTVposters/poster149_eng.jpg",
+                "height": 135,
+                "width": 240
+              },
+              {
+                "mimeType": "image/jpeg",
+                "url": "http://phx-media-server.phx.cisco.com/LTVposters/sposter149_eng.jpg",
+                "height": 135,
+                "width": 240
+              }
+            ],
+            "_links": {
+              "self": {
+                "href": "/content/85454342"
+              },
+              "season": {
+                "href": "/content/543234"
+              },
+              "show": {
+                "href": "/content/193923"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "/contentInstances/85454342_59345382"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "playSession": {
+          "href": "/devices/me/playsessions?channelId=2"
+        }
+      }
+    },
+    {
+      "name": "Fox Central",
+      "logicalChannelNumber": "3",
+      "id": "3",
+      "isFavourite": true,
+      "isPlayable": true,
+      "media": [
+        {
+          "type": "inverted",
+          "mimeType": "image/svg+xml",
+          "url": "http://phx-media-server.phx.cisco.com/LogoSvgReg/fox_news.svg"
+        },
+        {
+          "type": "regular",
+          "mimeType": "image/svg+xml",
+          "url": "http://phx-media-server.phx.cisco.com/LogoSvgInv/fox_news.svg"
+        }
+      ],
+      "schedule": [
+        {
+          "id": "52353453_1591148604",
+          "resource": "contentInstance",
+          "type": "event",
+          "startDateTime": "2015-10-05T14:30Z",
+          "content": {
+            "id": "52353453",
+            "resource": "content",
+            "type": "standalone",
+            "title": "G0312S25E005:Name:En",
+            "duration": 10800,
+            "synopsis": {
+              "short": "This is a short synopsis."
+            },
+            "media": [
+              {
+                "type": "small",
+                "mimeType": "image/jpeg",
+                "url": "http://phx-media-server.phx.cisco.com/LTVposters/poster005_eng.jpg",
+                "height": 135,
+                "width": 240
+              },
+              {
+                "type": "large",
+                "mimeType": "image/jpeg",
+                "url": "http://phx-media-server.phx.cisco.com/LTVposters/sposter005_eng.jpg",
+                "height": 135,
+                "width": 240
+              }
+            ],
+            "_links": {
+              "self": {
+                "href": "/content/52353454"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "/contentInstances/52353453_1591148604"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "playSession": {
+          "href": "/devices/me/playsessions?channelId=3"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "page": {
+      "href": "/agg/grid?carousel=true&channelId=1{&locator,offset,limit}",
+      "templated": true
+    },
+    "self": {
+      "href": "/agg/grid?channelId=1&offset=0&limit=3&eventsLimit=1"
+    }
+  }
+}

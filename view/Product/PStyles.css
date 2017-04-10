@@ -1,0 +1,61 @@
+﻿body {
+    background-color: black;
+}
+
+/*Product styles*/
+
+.P_Title{
+	position: absolute;
+    width: 55%;
+    margin-top: 22%;
+	margin-left: 35%;
+	line-height: 1;
+    color: white;
+    font-size: 50px;
+}
+
+.P_BodyText1{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 4%;
+    font-size: 25px;
+    color: white;
+}
+
+.P_BodyText2{
+	position: absolute;
+    height: 5%;
+    width: 28%;
+    margin-top: 10%;
+	margin-left: 4%;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.P_BodyText3{
+	position: absolute;
+    height: 5%;
+    width: 28%;
+    margin-top: 12%;
+	margin-left: 4%;
+    color: white;
+    font-size: 22px;
+}
+
+.P_Channel_style{
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 4%;
+    width : 5%;
+    height : 3%;
+}
+
+.P_EventImage_style{
+	position: absolute;
+    height: 30%;
+    width: 27%;
+    margin-top: 16%;
+	margin-left: 4%;
+}
+			

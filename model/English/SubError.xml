@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message_Error_Unsubscribed>
+<Heading>SubscriptionError</Heading>
+	<heading1>
+		<style>Heading</style>
+		<normal>10:30 AM</normal>
+
+		<NoOfFetches>4</NoOfFetches>
+		<fetch>EED EventName</fetch>
+		<normal>Starting at</normal>
+		
+		<normal>per month</normal>
+		<fetch>Start time</fetch>
+		<fetch>End time</fetch>
+		<normal>TO SUBSCRIBE, CALL OUR CALL CENTER OR SMS 5666 FROM YOUR REGISTERED MOBILE NUMBER</normal>
+		<normal>THIS SERVICE IS NOT IN YOUR SUBSCRIPTION BOUQUET</normal>
+		<fetch>EED Price</fetch>
+	</heading1>
+</Message_Error_Unsubscribed>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message_Error_SubscriptionError>
+	<heading>
+		<style>Heading</style>
+		<normal> </normal>		
+	</heading>
+	<title>
+		<style>Title</style>
+		<normal>THIS SERVICE IS NOT IN YOUR SUBSCRIPTION BOUQUET</normal>	
+	</title>
+	<bodytext>
+		<style>BodyText1</style>
+		<fetch>NTP Time</fetch>
+		<style>BodyText2</style>
+		<fetch>EED EventName</fetch>
+		<style>BodyText3</style>
+		<fetch>EED EventDuration%</fetch>
+		<fetch>EED EventPicture%</fetch>
+		<normal>STARTING AT</normal>
+		<fetch>EED EventPrice</fetch>
+		<normal>PER MONTH%</normal>
+		<normal>TO SUBSCRIBE, CALL OUR CALL CENTRE OR SMS 5666 FROM YOUR REGISTERED MOBILE NUMBER</normal>		
+	</bodytext>
+</Message_Error_SubscriptionError>
+
+
+

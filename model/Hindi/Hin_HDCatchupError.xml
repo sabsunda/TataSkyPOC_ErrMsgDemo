@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message_Error_HDCatchUp>
+	<heading>
+		<style>Heading</style>
+		<fetch>H_SDT ServiceName</fetch>			
+	</heading>
+	<title>
+		<style>Title</style>
+		<normal>To subscribe to</normal>
+		<fetch>SDT ServiceName%</fetch>
+		<normal>Price%</normal>
+		<normal>SMS to 56633 from RMN</normal>		
+	</title>
+	<bodytext>
+		<style>BodyText</style>
+		<normal>Step1% Pay HD access fee%</normal>
+		<fetch>EED Price%</fetch>
+		<normal>add</normal>
+		<fetch>EED Price%</fetch>
+		<normal>Step 2% As a-la-carte channel%</normal>
+		<fetch>EED Price%</fetch>
+		<normal>add 310%</normal>
+		<normal>OR%</normal>
+		<normal>Subscribe as part of English Entertainment pack with 8 other channels%</normal>
+		<fetch>EED Price%</fetch>
+		<fetch>SDT ServiceProvider%</fetch>
+		<normal>For more details, Press 'help' on your remote.(T&amp;C apply)</normal>		
+	</bodytext>
+</Message_Error_HDCatchUp>
+
+
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message_Error_Unsubscribed>
+	<heading>
+		<style>Heading</style>
+		<fetch>EED EventName</fetch>
+		<normal>at</normal>
+		<fetch>EED Price</fetch>
+	</heading>
+	<title>
+		<style>Title</style>
+		<normal>H_Pay HD access fee @ Rs </normal>
+		<fetch>ID172 Fee</fetch>
+		<normal>pm SMS add</normal>
+		<fetch>ID172 ndgo</fetch>
+		<normal>5633 from RMN</normal>
+	</title>
+	<bodytext>
+		<normal>To order the movie:</normal>
+		<normal>1. Give a missied call on </normal>
+		<fetch>EED PhoneNumber</fetch>
+		<normal>from your RMN OR</normal>
+		<normal>SMS </normal>
+		<fetch>OPPV SCNumber </fetch>
+		<normal>to </normal>
+		<style>56633 </style> 
+		<normal>from your RMN</normal>
+		<normal>3. Log on to www.mytatasky.com and select Order Showcase </normal>
+		<normal1>(Telecom rates as application. T&amp;C apply) </normal1>
+	</bodytext>
+</Message_Error_Unsubscribed>
+
